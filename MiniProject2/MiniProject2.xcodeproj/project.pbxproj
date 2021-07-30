@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BDCCAD1126B4703700AE4FBF /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCCAD1026B4703700AE4FBF /* ViewController4.swift */; };
 		BDE6E7FC26B3234B00D16F13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE6E7FB26B3234B00D16F13 /* AppDelegate.swift */; };
 		BDE6E7FE26B3234B00D16F13 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE6E7FD26B3234B00D16F13 /* SceneDelegate.swift */; };
 		BDE6E80026B3234B00D16F13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE6E7FF26B3234B00D16F13 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BDCCAD1026B4703700AE4FBF /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
 		BDE6E7F826B3234B00D16F13 /* MiniProject2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiniProject2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDE6E7FB26B3234B00D16F13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDE6E7FD26B3234B00D16F13 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				BDE6E7FB26B3234B00D16F13 /* AppDelegate.swift */,
 				BDE6E7FD26B3234B00D16F13 /* SceneDelegate.swift */,
 				BDE6E7FF26B3234B00D16F13 /* ViewController.swift */,
+				BDCCAD1026B4703700AE4FBF /* ViewController4.swift */,
 				BDE6E83026B324C600D16F13 /* ViewController3.swift */,
 				BDE6E82E26B324AE00D16F13 /* ViewController2.swift */,
 				BDE6E80126B3234B00D16F13 /* Main.storyboard */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDE6E82F26B324AE00D16F13 /* ViewController2.swift in Sources */,
+				BDCCAD1126B4703700AE4FBF /* ViewController4.swift in Sources */,
 				BDE6E80026B3234B00D16F13 /* ViewController.swift in Sources */,
 				BDE6E83126B324C600D16F13 /* ViewController3.swift in Sources */,
 				BDE6E7FC26B3234B00D16F13 /* AppDelegate.swift in Sources */,

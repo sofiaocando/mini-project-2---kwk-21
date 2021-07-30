@@ -8,14 +8,43 @@
 import UIKit
 
 class ViewController3: UIViewController {
-
+    @IBOutlet weak var answerLabel3: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+ 
+    @IBAction func timeButton1(_ sender: Any) {
+        answerLabel3.text = "As you should honestly"
+    }
+    
+    @IBAction func timeButton2(_ sender: Any) {
+        answerLabel3.text = "Great!!"
+    }
+    
+    @IBAction func timeButton3(_ sender: Any) {
+        answerLabel3.text = "How do you do it omg"
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     /*
     // MARK: - Navigation
 

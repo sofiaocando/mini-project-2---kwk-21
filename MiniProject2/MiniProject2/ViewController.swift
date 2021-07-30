@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func taylorSwiftButton(_ sender: Any) {
-        answerOutput1.text = "Great choice!Taylor is the music industry honestly"
+        answerOutput1.text = "Great choice! Taylor is iconic"
     }
     
     @IBAction func arianaGrandeButton(_ sender: Any) {
@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func oliviaRodrigoButton(_ sender: Any) {
-        answerOutput1.text = "Best new artist for sure!! You have so much taste"
+        answerOutput1.text = "Best new artist for sure!!"
     }
     
     
